@@ -5,7 +5,7 @@
 3. Also the app has been including sign-in / sign-up attributes by dedicated admin or user role.
 4. Some code patterns have been incorporated to app which it can be used by being helper-source.
 
-# HOW THE APP IS USED ?
+## HOW THE APP IS USED ?
 
 1. Before using the app, make sure all necessities have been prepared.
 2. First of all; it is required to installed node js ( version 14.0.0+ ) and docker on your computer.
