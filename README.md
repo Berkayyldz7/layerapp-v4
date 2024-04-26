@@ -12,4 +12,4 @@
 3. Please check readme.txt files. It includes crucial .env configuration knowledges.
 4. For start to docker container; utilize this command line on your cmd line. "docker-compose up".
 5. Subsequently please open another cmd window and write "npm start" command.
-6. Congratulations! The is ready for your "localhost:3000/api/v2" adress. 
+6. Congratulations! The app is ready for your "localhost:3000/api/v2" adress. 
